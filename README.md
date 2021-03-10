@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **";" key hates me the most**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikshanker&show_icons=true" alt="ritwikshanker" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikshanker&layout=compact&hide=html" alt="ritwikshanker" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikshanker&show_icons=true" alt="ritwikshanker" /></p>
 
 <p align="center">
 <a href="https://dev.to/ritwikshanker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ritwikshanker" height="30" width="30" /></a>
