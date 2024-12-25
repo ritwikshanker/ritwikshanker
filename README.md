@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritwik</h1>
-<h3 align="center">A Computer Science graduate student who loves competitive programming with experience in the field of Android Development.</h3>
+<h3 align="center">A Computer Science graduate student who loves competitive programming with experience in the field of Software Development.</h3>
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=ritwikshanker" alt="ritwikshanker" />
 </p>
