@@ -1,42 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ritwik</h1>
-<h3 align="center">A Computer Science graduate student who loves competitive programming with experience in the field of Software Development.</h3>
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=ritwikshanker" alt="ritwikshanker" />
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Ritwik</h1>
+  <h3>
+    Computer Science graduate | Competitive Programming Enthusiast | Software Developer
+  </h3>
+</div>
 
-- 💬 Ask me about **Android, Kotlin**
-
-- 📫 How to reach me **ritwikshanker@yahoo.in**
-
-- ⚡ Fun fact **";" key hates me the most**
-
-
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwikshanker&layout=compact&hide=html&theme=dracula" alt="ritwikshanker" />
-</p>
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritwikshanker&show_icons=true&theme=dracula" alt="ritwikshanker" />
-</p>
 <p align="center">
-	<a href="https://dev.to/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/dev-dot-to.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://twitter.com/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/twitter.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://linkedin.com/in/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://stackoverflow.com/users/7024091/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/stackoverflow.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://fb.com/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/facebook.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://instagram.com/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
-	<a href="https://www.youtube.com/c/ritwikshanker" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/youtube.svg" alt="ritwikshanker" height="30" width="30" />
-	</a>
+  <img src="https://komarev.com/ghpvc/?username=ritwikshanker&color=blueviolet" alt="Profile views counter" />
 </p>
+
+<p><b>📫 How to reach me:</b> <a href="mailto:ritwikshanker@yahoo.in">ritwikshanker@yahoo.in</a></p>
+
+<p><b>⚡ Fun fact:</b> The ";" key hates me the most</p>
+
+<p align="center" style="margin:0; padding:0;">
+  <a href="https://twitter.com/ritwikshanker" target="_blank" aria-label="Twitter" style="display:inline-block; vertical-align:middle;">
+    <img src="https://cdn.simpleicons.org/x/0A0A0A/FFFFFF" alt="Twitter / X" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/ritwikshanker" target="_blank" aria-label="LinkedIn" style="display:inline-block; vertical-align:middle;">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/7024091/ritwikshanker" target="_blank" aria-label="Stack Overflow" style="display:inline-block; vertical-align:middle;">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025/F58025" alt="Stack Overflow" height="30" width="30" />
+  </a>
+  <a href="https://www.youtube.com/c/ritwikshanker" target="_blank" aria-label="YouTube" style="display:inline-block; vertical-align:middle;">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000/FF0000" alt="YouTube" height="30" width="30" />
+  </a>
+</p>
+
+
