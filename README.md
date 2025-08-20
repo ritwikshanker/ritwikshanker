@@ -9,9 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=ritwikshanker&color=blueviolet" alt="Profile views counter" />
 </p>
 
-<p><b>📫 How to reach me:</b> <a href="mailto:ritwikshanker@yahoo.in">ritwikshanker@yahoo.in</a></p>
-
-<p><b>⚡ Fun fact:</b> The ";" key hates me the most</p>
 <table align="center" cellspacing="10">
   <tr>
     <td><a href="https://twitter.com/ritwikshanker" target="_blank" aria-label="Twitter"><img src="https://cdn.simpleicons.org/x/0A0A0A/FFFFFF" height="30" width="30" alt="Twitter / X" /></a></td>
